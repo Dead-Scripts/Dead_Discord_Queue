@@ -30,7 +30,7 @@ Config = {
     		'✨🌿✨🌿🌟🌿',
     		'🌿✨🌿🌟🌿🌟',
     		'✨🌿🌟🌿🌟🌿',
-		}
+		},
 
 		Messages = {
 			MSG_CONNECTING = 'You are being connected [{QUEUE_NUM}/{QUEUE_MAX}]:',
